@@ -1,28 +1,31 @@
-# SeekJob - Simple Job Finder React App
+# Location Based Job App
 
 ![SeekJob App Screenshot](screenshot3.png)
-SeekJob is a simple job finder web application built with React, Tailwind CSS, and Vite. It helps users search for job listings based on various criteria, making it easier to find job opportunities that match their preferences.
 
+A modern job finder web application built with React, Tailwind CSS, Vite, Three.js, and Framer Motion. It helps users search for job listings in Indian hi-tech cities with 3D animations, dark mode, advanced filtering, and a premium UI.
 
 ## Technologies Used
 
 - React
 - Tailwind CSS
 - Vite
+- Three.js / @react-three/fiber
+- Framer Motion
+- GSAP
 
 ## Getting Started
 
-To get started with SeekJob locally, follow these steps:
+To get started locally, follow these steps:
 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/lijnati/SeekJob-Simple-React-App.git 
+   git clone https://github.com/Mrksaipranay/Location_Based_job-.git
    ```
 2. Install the project dependencies:
 
    ```bash
-   npm install
+   npm install --legacy-peer-deps
    ```
 3. Start the development server:
 
@@ -31,11 +34,23 @@ To get started with SeekJob locally, follow these steps:
    ```
 4. Open your browser and visit:
 
- ```bash
- http://localhost:3000
-```
+   ```
+   http://localhost:5173
+   ```
+
+## Features
+
+- 🌐 3D animated hero section with Three.js
+- 🌙 Dark / Light mode toggle (persisted)
+- 🔍 Advanced job search & filtering
+- 📍 Jobs in Indian hi-tech cities (Bengaluru, Hyderabad, Pune, Mumbai, Chennai, Noida, Gurugram)
+- 💼 Save / bookmark jobs
+- 🔐 Login & Register modal (UI, no data stored)
+- 📱 Fully responsive & mobile-friendly
+
 ## Contributing
-If you'd like to contribute to SeekJob, please follow these steps:
+
+If you'd like to contribute to this project, please follow these steps:
 
 1. Fork this repository.
 2. Create a new branch for your feature or bug fix.
@@ -44,5 +59,5 @@ If you'd like to contribute to SeekJob, please follow these steps:
 5. Open a pull request on this repository.
 
 ## Contact
-`[Yegetaneh Firew]`, `[lijnati3@gmail.com]`
 
+**K. Saipranay** — k.saipranay6705@gmail.com
