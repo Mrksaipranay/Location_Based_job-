@@ -1,5 +1,6 @@
 # Location Based Job App
 
+🔗 **Live Preview:** [locationbasedjob.vercel.app](https://locationbasedjob.vercel.app/)
 
 
 A modern job finder web application built with React, Tailwind CSS, Vite, Three.js, and Framer Motion. It helps users search for job listings in Indian hi-tech cities with 3D animations, dark mode, advanced filtering, and a premium UI.
